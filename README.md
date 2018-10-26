@@ -40,4 +40,3 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 * [UFO Sightings Data](StarterCode/static/js/data.js)
 
-You can visit the GIT HUB PAGE  at  https://shupra1313.github.io/Project-javascript-DOM-manipulation-UFO/
