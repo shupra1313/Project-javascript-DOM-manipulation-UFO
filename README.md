@@ -40,20 +40,4 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 * [UFO Sightings Data](StarterCode/static/js/data.js)
 
-### Assessment
-
-Your final product will be assessed on the following metrics:
-
-* Completion of all steps in chosen level
-
-* Visual attraction
-
-* Usability
-
-**Good luck!**
-
-- - -
-
-### Copyright
-
-Data Boot Camp © 2018. All Rights Reserved.
+You can visit the GIT HUB PAGE  at  https://shupra1313.github.io/Project-javascript-DOM-manipulation-UFO/
